@@ -1,3 +1,5 @@
+package org.example.entities;
+
 public class Student{
 private int nim;
 private String name;
